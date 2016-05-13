@@ -22,7 +22,7 @@ model [resnet-101]
 
 number of GPUs
 
-batch size (only go up till 500, for 8 Tesla k-80s)
+batch size (depends upon #gpus available)
 
 
 
