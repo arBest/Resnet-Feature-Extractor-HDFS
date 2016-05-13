@@ -58,4 +58,8 @@ resnet-101
 Please look at resnet-model.lua, and make the changes there by providing the {web location of the new model} and location you want it to be stored on your machine.
 
 
+#Credits
+
+- Soumith Chintala, Corey Lynch
+
 
