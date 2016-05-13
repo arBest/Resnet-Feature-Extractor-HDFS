@@ -50,3 +50,12 @@ resnet-101
 8
 
 100
+
+
+
+#Adding new models
+
+Please look at resnet-model.lua, and make the changes there by providing the {web location of the new model} and location you want it to be stored on your machine.
+
+
+
